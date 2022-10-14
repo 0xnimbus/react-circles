@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-circles/static/css/main.ce13e1fa.css",
+    "main.js": "/react-circles/static/js/main.9ad4e07f.js",
+    "static/js/787.72170ad4.chunk.js": "/react-circles/static/js/787.72170ad4.chunk.js",
+    "index.html": "/react-circles/index.html",
+    "main.ce13e1fa.css.map": "/react-circles/static/css/main.ce13e1fa.css.map",
+    "main.9ad4e07f.js.map": "/react-circles/static/js/main.9ad4e07f.js.map",
+    "787.72170ad4.chunk.js.map": "/react-circles/static/js/787.72170ad4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce13e1fa.css",
+    "static/js/main.9ad4e07f.js"
+  ]
+}
